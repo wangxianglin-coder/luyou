@@ -1,0 +1,408 @@
+{
+  "data":[
+  {
+    "city":"茂名",
+    "swiperList": [
+      {
+         "id": "1",
+          "url":"//imgs.qunarzz.com/vs_ceph_vcimg/6ff121fd416169b8d56c60384e3baf79.jpeg"
+
+      },
+      {
+          "id": "2",
+          "url":"//imgs.qunarzz.com/vs_ceph_vcimg/569cae4ae98e9793f7341e85eed73c54.jpeg"
+      },
+      {
+          "id": "3",
+          "url": "//imgs.qunarzz.com/vs_ceph_vcimg/f03f5ac90ae59d0d9c6332a2bfd9782e.jpeg"
+      },
+         {
+          "id": "4",
+          "url":"//imgs.qunarzz.com/vs_ceph_vcimg/569cae4ae98e9793f7341e85eed73c54.jpeg"
+      },
+      {
+          "id": "5",
+          "url": "//imgs.qunarzz.com/vs_ceph_vcimg/f03f5ac90ae59d0d9c6332a2bfd9782e.jpeg"
+      }
+    ],
+    "list": [
+      {
+        "id": "01",
+        "url": "//s.qunarzz.com/homenode/images/touchheader/hotel.png",
+        "title": "景点门票"
+      },
+      {
+        "id": "02",
+        "url": "//s.qunarzz.com/homenode/images/touchheader/hotel.png",
+        "title": "必游榜单"
+      },
+      {
+        "id": "03",
+        "url": "//s.qunarzz.com/homenode/images/touchheader/hotel.png",
+        "title":"夏日玩水"
+      },
+      {
+        "id": "04",
+        "url": "//s.qunarzz.com/homenode/images/touchheader/hotel.png",
+        "title": "主题乐园"
+      },
+      {
+        "id": "05",
+        "url": "//s.qunarzz.com/homenode/images/touchheader/hotel.png",
+        "title": "动植物园"
+      },
+      {
+        "id": "06",
+        "url": "//s.qunarzz.com/homenode/images/touchheader/hotel.png",
+        "title": "故宫"
+      },
+      {
+        "id": "07",
+        "url": "//s.qunarzz.com/homenode/images/touchheader/hotel.png",
+        "title": "一日游"
+      },
+      {
+        "id": "08",
+        "url": "//s.qunarzz.com/homenode/images/touchheader/hotel.png",
+        "title": "公园"
+      },
+      {
+        "id": "09",
+        "url": "//s.qunarzz.com/homenode/images/touchheader/hotel.png",
+        "title": "游乐场"
+      },
+      {
+        "id": "010",
+        "url": "//s.qunarzz.com/homenode/images/touchheader/hotel.png",
+        "title": "全部游乐"
+      }
+    ],
+    "imageList": [
+      {
+        "id": "01",
+        "url":"http://img1.qunarzz.com/sight/p52/201211/08/e8401f365a5e6b8393835fbb.jpg_250x250_e62af447.jpg",
+        "title": "茂名森林公园",
+        "price": 23
+      },
+      {
+        "id": "02",
+        "url": "http://img1.qunarzz.com/sight/p0/2001/1f/1fbabd03a4541082a3.img.jpg_250x250_77c6f2b3.jpg",
+        "title": "信宜莲花湖庄园",
+        "price": 39
+      },
+      {
+        "id": "03",
+        "url": "http://img1.qunarzz.com/sight/p0/201304/17/f3b5735b997d5059c8d65eac.jpg_250x250_26571ec4.jpg",
+        "title": "粤龙山风景区",
+        "price": 24
+      },
+      {
+        "id": "04",
+        "url": "http://img1.qunarzz.com/sight/p0/1810/8a/8ad29a1f4ff201c9a3.img.jpg_250x250_93969191.jpg",
+        "title": "高州仙人洞风景区",
+        "price": 150
+      },
+      {
+        "id": "05",
+        "url": "http://img1.qunarzz.com/sight/p0/201403/07/3ab9e822a4bcdd13d145312a8b268317.jpg_250x250_97b907f5.jpg",
+        "title": "浪漫海岸度假区",
+        "price": 71.5
+      },
+      {
+        "id": "06",
+        "url": "http://img1.qunarzz.com/sight/p0/1703/35/355c3bb3fdf3911da3.img.jpg_250x250_954304ac.jpg",
+        "title": "广垦（茂名）国家热带农业公园",
+        "price": 29.5
+      },
+      {
+        "id": "07",
+        "url": "http://img1.qunarzz.com/sight/p0/201212/24/348debe79e28502493835fbb.png_250x250_09c74841.png",
+        "title": "御水古温泉",
+        "price": 110
+      },
+      {
+        "id": "08",
+        "url": "http://img1.qunarzz.com/sight/p0/201403/07/d0d4e64ca5ea46c952c8ee5cf342d7af.jpg_250x250_45cddfd2.jpg",
+        "title": "西江温泉",
+        "price": 110
+      }
+    ],
+    "goods": [
+      {
+        "id": "01",
+        "image": "http://img1.qunarzz.com/sight/p0/201212/24/348debe79e28502493835fbb.png_200x200_015180ac.png",
+        "title": "御水古温镇",
+        "pl": 1972,
+        "price": 150,
+        "map": "电白县"
+      },
+       {
+        "id": "02",
+        "image": "http://img1.qunarzz.com/sight/p0/1810/8a/8ad29a1f4ff201c9a3.img.jpg_200x200_3855b2a4.jpg",
+        "title": "高州仙人洞风景区",
+        "pl":1149,
+        "price": 150,
+        "map": "高州市"
+      },
+       {
+        "id": "03",
+        "image":"http://img1.qunarzz.com/sight/p52/201211/08/e8401f365a5e6b8393835fbb.jpg_200x200_2aa7037b.jpg",
+        "title": "茂名森林公园",
+        "pl":1849,
+        "price": 23,
+        "map": "茂南区"
+      },
+       {
+        "id": "04",
+        "image": "http://img1.qunarzz.com/sight/p0/201403/07/3ab9e822a4bcdd13d145312a8b268317.jpg_200x200_198ed553.jpg",
+        "title": "浪漫海岸度假区",
+        "pl": 2779,
+        "price": 71.5,
+        "map": "电白县"
+      },
+       {
+        "id": "05",
+        "image": "http://img1.qunarzz.com/sight/p0/2001/1f/1fbabd03a4541082a3.img.jpg_200x200_49f6cf15.jpg",
+        "title": "信宜莲花湖庄园",
+        "pl": 262,
+        "price": 39,
+        "map": "信宜市"
+      }
+    ],
+    "whereList": [
+      {
+        "id":"01",
+        "image": "http://img1.qunarzz.com/sight/source/1811/15/66f14e0fd6fbb.jpg_r_640x214_5d69f21d.jpg",
+        "title": "清远周边逛",
+        "desc": "人人都有一双发现美的眼睛，身边的事物最熟悉不过，那你可曾发现了被人遗漏的美？"
+      },
+      {
+        "id":"02",
+        "image": "http://img1.qunarzz.com/sight/source/1811/b8/5d599bbdcf8b57.jpg_r_640x214_2ee055e3.jpg",
+        "title": "浮在海上的绿洲",
+        "desc": "南国滨海之城，避寒胜地，有暖暖的阳光，海风习习，吃着海鲜逛逛老街多惬意啊"
+      },
+      {
+        "id":"03",
+        "image": "http://img1.qunarzz.com/sight/source/1811/f8/29dfa785277839.jpg_r_640x214_7d051523.jpg",
+        "title": "阳江温泉知多少",
+        "desc": "这里的天空和大海让人心旷神怡，配上舒缓的优美音乐，泡个暖暖的温泉岂不美哉"
+      },
+      {
+        "id":"04",
+        "image": "http://img1.qunarzz.com/sight/source/1509/53/ce35546289f8ca.jpg_r_640x214_d1dc051d.jpg",
+        "title": "茂名必游TOP5",
+        "desc": "这里水产养殖享誉盛名，是中国罗非鱼之都"
+      },
+      {
+        "id":"05",
+        "image": "http://img1.qunarzz.com/sight/source/1811/a6/58f0f11144b515.jpg_r_640x214_8a13832d.jpg",
+        "title": "阳江崆峒岩",
+        "desc": "感受大自然的奇观"
+      }
+    ]
+  },
+  {
+    "city": "上海",
+    "swiperList": [
+      {
+         "id": "1",
+          "url":"//imgs.qunarzz.com/vs_ceph_vcimg/6ff121fd416169b8d56c60384e3baf79.jpeg"
+
+      },
+      {
+          "id": "2",
+          "url":"//imgs.qunarzz.com/vs_ceph_vcimg/569cae4ae98e9793f7341e85eed73c54.jpeg"
+      },
+      {
+          "id": "3",
+          "url": "//imgs.qunarzz.com/vs_ceph_vcimg/f03f5ac90ae59d0d9c6332a2bfd9782e.jpeg"
+      },
+         {
+          "id": "4",
+          "url":"//imgs.qunarzz.com/vs_ceph_vcimg/569cae4ae98e9793f7341e85eed73c54.jpeg"
+      },
+      {
+          "id": "5",
+          "url": "//imgs.qunarzz.com/vs_ceph_vcimg/f03f5ac90ae59d0d9c6332a2bfd9782e.jpeg"
+      }
+    ],
+    "list": [
+      {
+        "id": "01",
+        "url": "//s.qunarzz.com/homenode/images/touchheader/hotel.png",
+        "title": "景点门票"
+      },
+      {
+        "id": "02",
+        "url": "//s.qunarzz.com/homenode/images/touchheader/hotel.png",
+        "title": "必游榜单"
+      },
+      {
+        "id": "03",
+        "url": "//s.qunarzz.com/homenode/images/touchheader/hotel.png",
+        "title":"夏日玩水"
+      },
+      {
+        "id": "04",
+        "url": "//s.qunarzz.com/homenode/images/touchheader/hotel.png",
+        "title": "主题乐园"
+      },
+      {
+        "id": "05",
+        "url": "//s.qunarzz.com/homenode/images/touchheader/hotel.png",
+        "title": "动植物园"
+      },
+      {
+        "id": "06",
+        "url": "//s.qunarzz.com/homenode/images/touchheader/hotel.png",
+        "title": "东方明珠"
+      },
+      {
+        "id": "07",
+        "url": "//s.qunarzz.com/homenode/images/touchheader/hotel.png",
+        "title": "一日游"
+      },
+      {
+        "id": "08",
+        "url": "//s.qunarzz.com/homenode/images/touchheader/hotel.png",
+        "title": "公园"
+      },
+      {
+        "id": "09",
+        "url": "//s.qunarzz.com/homenode/images/touchheader/hotel.png",
+        "title": "游乐场"
+      },
+      {
+        "id": "010",
+        "url": "//s.qunarzz.com/homenode/images/touchheader/hotel.png",
+        "title": "全部游乐"
+      }
+    ],
+    "imageList": [
+      {
+        "id": "01",
+        "url":"http://img1.qunarzz.com/sight/p52/201211/08/e8401f365a5e6b8393835fbb.jpg_250x250_e62af447.jpg",
+        "title": "茂名森林公园",
+        "price": 23
+      },
+      {
+        "id": "02",
+        "url": "http://img1.qunarzz.com/sight/p0/2001/1f/1fbabd03a4541082a3.img.jpg_250x250_77c6f2b3.jpg",
+        "title": "信宜莲花湖庄园",
+        "price": 39
+      },
+      {
+        "id": "03",
+        "url": "http://img1.qunarzz.com/sight/p0/201304/17/f3b5735b997d5059c8d65eac.jpg_250x250_26571ec4.jpg",
+        "title": "粤龙山风景区",
+        "price": 24
+      },
+      {
+        "id": "04",
+        "url": "http://img1.qunarzz.com/sight/p0/1810/8a/8ad29a1f4ff201c9a3.img.jpg_250x250_93969191.jpg",
+        "title": "高州仙人洞风景区",
+        "price": 150
+      },
+      {
+        "id": "05",
+        "url": "http://img1.qunarzz.com/sight/p0/201403/07/3ab9e822a4bcdd13d145312a8b268317.jpg_250x250_97b907f5.jpg",
+        "title": "浪漫海岸度假区",
+        "price": 71.5
+      },
+      {
+        "id": "06",
+        "url": "http://img1.qunarzz.com/sight/p0/1703/35/355c3bb3fdf3911da3.img.jpg_250x250_954304ac.jpg",
+        "title": "广垦（茂名）国家热带农业公园",
+        "price": 29.5
+      },
+      {
+        "id": "07",
+        "url": "http://img1.qunarzz.com/sight/p0/201212/24/348debe79e28502493835fbb.png_250x250_09c74841.png",
+        "title": "御水古温泉",
+        "price": 110
+      },
+      {
+        "id": "08",
+        "url": "http://img1.qunarzz.com/sight/p0/201403/07/d0d4e64ca5ea46c952c8ee5cf342d7af.jpg_250x250_45cddfd2.jpg",
+        "title": "西江温泉",
+        "price": 110
+      }
+    ],
+    "goods": [
+      {
+        "id": "01",
+        "image": "http://img1.qunarzz.com/sight/p0/201212/24/348debe79e28502493835fbb.png_200x200_015180ac.png",
+        "title": "御水古温镇",
+        "pl": 1972,
+        "price": 150,
+        "map": "电白县"
+      },
+       {
+        "id": "02",
+        "image": "http://img1.qunarzz.com/sight/p0/1810/8a/8ad29a1f4ff201c9a3.img.jpg_200x200_3855b2a4.jpg",
+        "title": "高州仙人洞风景区",
+        "pl":1149,
+        "price": 150,
+        "map": "高州市"
+      },
+       {
+        "id": "03",
+        "image":"http://img1.qunarzz.com/sight/p52/201211/08/e8401f365a5e6b8393835fbb.jpg_200x200_2aa7037b.jpg",
+        "title": "茂名森林公园",
+        "pl":1849,
+        "price": 23,
+        "map": "茂南区"
+      },
+       {
+        "id": "04",
+        "image": "http://img1.qunarzz.com/sight/p0/201403/07/3ab9e822a4bcdd13d145312a8b268317.jpg_200x200_198ed553.jpg",
+        "title": "浪漫海岸度假区",
+        "pl": 2779,
+        "price": 71.5,
+        "map": "电白县"
+      },
+       {
+        "id": "05",
+        "image": "http://img1.qunarzz.com/sight/p0/2001/1f/1fbabd03a4541082a3.img.jpg_200x200_49f6cf15.jpg",
+        "title": "信宜莲花湖庄园",
+        "pl": 262,
+        "price": 39,
+        "map": "信宜市"
+      }
+    ],
+    "whereList": [
+      {
+        "id":"01",
+        "image": "http://img1.qunarzz.com/sight/source/1811/15/66f14e0fd6fbb.jpg_r_640x214_5d69f21d.jpg",
+        "title": "清远周边逛",
+        "desc": "人人都有一双发现美的眼睛，身边的事物最熟悉不过，那你可曾发现了被人遗漏的美？"
+      },
+      {
+        "id":"02",
+        "image": "http://img1.qunarzz.com/sight/source/1811/b8/5d599bbdcf8b57.jpg_r_640x214_2ee055e3.jpg",
+        "title": "浮在海上的绿洲",
+        "desc": "南国滨海之城，避寒胜地，有暖暖的阳光，海风习习，吃着海鲜逛逛老街多惬意啊"
+      },
+      {
+        "id":"03",
+        "image": "http://img1.qunarzz.com/sight/source/1811/f8/29dfa785277839.jpg_r_640x214_7d051523.jpg",
+        "title": "阳江温泉知多少",
+        "desc": "这里的天空和大海让人心旷神怡，配上舒缓的优美音乐，泡个暖暖的温泉岂不美哉"
+      },
+      {
+        "id":"04",
+        "image": "http://img1.qunarzz.com/sight/source/1509/53/ce35546289f8ca.jpg_r_640x214_d1dc051d.jpg",
+        "title": "茂名必游TOP5",
+        "desc": "这里水产养殖享誉盛名，是中国罗非鱼之都"
+      },
+      {
+        "id":"05",
+        "image": "http://img1.qunarzz.com/sight/source/1811/a6/58f0f11144b515.jpg_r_640x214_8a13832d.jpg",
+        "title": "阳江崆峒岩",
+        "desc": "感受大自然的奇观"
+      }
+    ]
+  }
+]
+}
